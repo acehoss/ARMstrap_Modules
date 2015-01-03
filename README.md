@@ -9,7 +9,7 @@ compatible with STM32F4xx Cube-based (HAL) projects.
   FTDI port if used with the default platform\_config.h 
 * **U8Glib** - Version 1.15 (ARM) of the [U8G graphics library](https://code.google.com/p/u8glib/).
 * **U8Glib_Driver_ARMstrap** - U8G comm driver for the ARMstrap board
-* **U8Glib_Driver_HD66753** - U8G screen driver for the HD66753 controller
+* **U8Glib_Driver_HD66753** - U8G device driver for the HD66753 LCD controller
 * **Utils** - Various utility functions
 
 ## Using Modules
