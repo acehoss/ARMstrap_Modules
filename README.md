@@ -7,9 +7,7 @@ compatible with STM32F4xx Cube-based (HAL) projects.
 * **Debounce** - Integrator debouncer
 * **Debug** - Functions for printing debug information to a UART. Works out of the box with the ARMstrap
   FTDI port if used with the default platform\_config.h 
-* **U8Glib** - Version 1.15 (ARM) of the [U8G graphics library](https://code.google.com/p/u8glib/). 
-  Note: Add `Modules/U8Glib` to *Project Preferences > C/C++ General > Paths and Symbols > Includes* for 
-  *GNU C* and *GNU C++* for call configurations if using this module. 
+* **U8Glib** - Version 1.15 (ARM) of the [U8G graphics library](https://code.google.com/p/u8glib/) 
 * **U8Glib_Driver_ARMstrap** - U8G SPI comm driver for the ARMstrap board
 * **U8Glib_Driver_HD66753** - U8G device driver for the HD66753 LCD controller
 * **U8G_Display_Test** - FPS-counting test screen for U8G
