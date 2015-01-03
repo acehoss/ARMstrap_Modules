@@ -14,4 +14,4 @@ compatible with STM32F4xx Cube-based (HAL) projects.
 
 ## Using Modules
 To use the modules, copy the directory containing the module you want to use into the *Modules* directory
-in the project. Then *#include \<module_name/module_header.h\>* wherever you want to use the functionality.
+in the project. Then *#include &lt;module_name/module_header.h&gt;* wherever you want to use the functionality.
