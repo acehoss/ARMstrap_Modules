@@ -12,6 +12,7 @@ compatible with STM32F4xx Cube-based (HAL) projects.
   *GNU C* and *GNU C++* for call configurations if using this module. 
 * **U8Glib_Driver_ARMstrap** - U8G SPI comm driver for the ARMstrap board
 * **U8Glib_Driver_HD66753** - U8G device driver for the HD66753 LCD controller
+* **U8G_Display_Test** - FPS-counting test screen for U8G
 * **Utils** - Various utility functions
 
 ## Using Modules
